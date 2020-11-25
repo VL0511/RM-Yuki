@@ -15,7 +15,7 @@ client.remove_command('help')
 @client.event
 async def on_ready():
     __version__ = '2.0.0'
-    __url__ = 'https://github.com/VL0511/Yuki_bot'
+    __url__ = 'https://github.com/VL0511/RM-Yuki'
     print('=====================================================')
     print(f'{client.user.name} Online.')
     print(f'Versão {__version__}')
