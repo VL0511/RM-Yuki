@@ -36,7 +36,7 @@ class Comando(commands.Cog):
         embed.set_author(name="Zury ", url="https://giffiles.alphacoders.com/209/209699.gif", icon_url="https://giffiles.alphacoders.com/297/2970.gif")
         embed.set_thumbnail(url="https://s2.glbimg.com/meFVMhlLxjc6Oalv6uymgt7309c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/h/w/Abq4oBSySsO0xmGnkDlg/discord.jpg")
         embed.add_field(name="Meu github:", value="https://github.com/VL0511", inline=True)
-        embed.add_field(name="Loja do desenvolvedor: ", value="https://discord.gg/bCJ8MnKZz9", inline=True)
+        embed.add_field(name="Loja do desenvolvedor: ", value="https://discord.io/Store-Zury", inline=True)
         embed.add_field(name="Discord do criador: ", value="Sou o Zury#6984", inline=True)
         embed.set_footer(text="Entre em contato comigo caso ache algum erro.", icon_url="https://giffiles.alphacoders.com/209/209699.gif")
         await ctx.send(embed=embed)
