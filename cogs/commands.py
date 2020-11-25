@@ -68,8 +68,8 @@ class Comando(commands.Cog):
 
     @commands.command()
     async def lat(self, ctx):
-        embed = discord.Embed(description=f"Seu ping é: {self.client.latency} ms", color=0x11ff00)
-        embed.set_author(name="Seu Ping")
+        embed = discord.Embed(description=f"O ping do ping é: {self.client.latency} ms", color=0x11ff00)
+        embed.set_author(name="Pingo do bot")
 
         await ctx.send(embed=embed)
 
