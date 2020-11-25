@@ -18,7 +18,7 @@ Criar canais.
 
 ### Links
 
-Servidor do Yuki:https://discord.gg/Nen8r4QyT9
+Servidor do Yuki:https://discord.gg/Nen8r4QyT9 <br>
 Loja do desenvolvedor:https://discord.io/Store-Zury
 
 
