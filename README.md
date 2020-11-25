@@ -1,5 +1,5 @@
 # RM-Yuki
-![profile](https://github.com/VL0511/RM-Yuki/blob/main/img/profile.jpeg)
+![profile](https://github.com/VL0511/RM-Yuki/blob/main/img/Yuki.jpg)
 
 O bot RM Yuki é um bot feito em python, usando cogs e discord.py.
 
