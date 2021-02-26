@@ -22,4 +22,4 @@ Servidor do Yuki:https://discord.gg/Nen8r4QyT9 <br>
 Loja do desenvolvedor:https://discord.io/Store-Zury
 
 
-Desenvolvedor do bot: Sou o Zury#6984
+Desenvolvedor do bot: Sou o Zury#0001
